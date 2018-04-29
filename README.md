@@ -3,7 +3,7 @@ Generative Adverserial Network
 
 In 0 epoch
 
-![0epoch](./Image_for_GAN/0epoch.png)
+![0epoch](./Image_for_GAN/0epoch.PNG)
 
 In 10 epoch
 
@@ -11,8 +11,8 @@ In 10 epoch
 
 In 20 epoch
 
-![20epoch](./Image_for_GAN/20epoch.png)
+![20epoch](./Image_for_GAN/20epoch.PNG)
 
 In 30 epoch
 
-![30epoch](./Image_for_GAN/30epoch.png)
+![30epoch](./Image_for_GAN/30epoch.PNG)
